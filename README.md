@@ -1,17 +1,41 @@
 ## 👋 Hi, I'm Justine
 
-**Software Developer | QA and Test Automation | Java, C#, SQL, Selenium**
+**Informatics Associate | Software Development and Testing | C#, Java, SQL**
 
-I enjoy building software, testing it properly, and figuring out how to make it better. My main focus is QA automation, but I also have experience in software development and IT support, so I like working across different parts of the development process.
+I'm a software professional currently working in informatics. My background is in software development, with experience building and testing enterprise applications using C#, ASP.NET, and SQL Server. I like understanding how systems work, fixing what's broken, and making things run better.
 
 ---
 
 ## ✨ A Few Things About Me
 
-- 🎯 Most interested in **QA Analyst** and **Automation** roles
-- 💻 Also enjoy **software development** and problem-solving on the development side
-- 🛠️ Like work involving **quality, debugging, testing, and improving how things run**
-- 🤖 Currently learning more about **AI tools** and how they can be used in practical workflows
+- 🏥 Currently an **Informatics Associate** at **Spectrum Medical**
+- 💻 Background in **software development**, plus experience in **testing and QA**
+- 🛠️ Enjoy work involving **problem-solving, debugging, and improving how things run**
+- 🤖 Use **AI tools** in my day-to-day workflow, mainly **Claude Code**, to help with coding, debugging, and writing tests, while still reviewing and understanding the code myself
+
+---
+
+## 💼 Experience Snapshot
+
+**Informatics Associate, Spectrum Medical** (2026–present)
+
+**Applications Developer, Buckland** (2022–2024)
+- 🏗️ Developed and maintained features for an enterprise logistics system using **C#, ASP.NET Core, and SQL Server**
+- 🔄 Supported the move from legacy applications toward **Microsoft Dynamics 365**
+- 📄 Created and managed **SSRS reports** in Visual Studio
+- 🧩 Took ownership of an undocumented in-house legacy app that automated data entry and generated XML files for a third-party system
+- ✅ Wrote **unit and integration tests** and debugged production issues
+
+**Quality Assurance Co-op, Carfax** (2021)
+- 🔍 Validated data by comparing extracted file data against system data and checking for discrepancies
+- 📝 Worked with an Agile team on test cases, manual testing, and defect logging
+
+---
+
+## 🎓 Education
+
+- Post Graduate Certificate, **Software and Information Systems Testing**, Fanshawe College
+- Advanced Diploma, **Computer Programming and Analysis**, Fanshawe College
 
 ---
 
@@ -23,37 +47,28 @@ C# • Java • JavaScript • SQL
 ### 🌐 Development
 ASP.NET Core • ASP.NET MVC • REST APIs • Blazor
 
-### 🧪 Testing and Automation
+### 🧪 Testing
 Selenium • Appium • Playwright • Postman • Swagger
 
-### 🔒 Non-Functional and Security
+### 🔒 Non-Functional and Security (coursework and projects)
 JMeter • Glowroot • Burp Suite • OWASP Threat Dragon
 
 ### ⚙️ Tools
 Git • Jenkins • Azure DevOps • Visual Studio • SSMS • Android Studio • Jira • Miro • Visio
 
----
-
-## 💼 Experience Snapshot
-
-- 🏗️ Built and maintained enterprise application features using **C#, ASP.NET Core, and SQL Server**
-- 🔗 Worked with **REST APIs** to support internal business workflows
-- ✅ Wrote **unit and integration tests** to reduce regression issues
-- 🤝 Contributed to **manual and automated testing** in Agile environments
-- 🚀 Helped create and maintain **automation frameworks** for functional and performance testing
+### 🤖 AI Tools
+Claude Code
 
 ---
 
 ## 🔍 What You'll Find Here
 
-- 💻 Projects that show both **development** and **testing** work
-- 🧪 Practice with **automation, APIs, and non-functional testing**
-- 🧠 Work that reflects both **technical problem-solving** and a **quality-focused mindset**
+- 💻 Projects from school and on my own time, covering **development** and **testing**
+- 🧠 Personal projects I use to keep my coding skills sharp
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/jfgerona](https://www.linkedin.com/in/jfgerona)
-- 💻 **GitHub:** [github.com/jfgerona](https://github.com/jfgerona)
-- 📧 **Email:** jfgerona.ca@gmail.com
+- 📧 **Email:** <jfgerona.ca@gmail.com>
